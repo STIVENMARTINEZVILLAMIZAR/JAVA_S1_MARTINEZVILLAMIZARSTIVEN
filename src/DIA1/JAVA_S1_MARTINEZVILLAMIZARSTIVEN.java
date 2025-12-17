@@ -1,5 +1,5 @@
 
-package java_s1_martinezvillamizarstiven;
+package DIA1;
 
  * @author STIVEN MARTINEZ VILLAMIZAR
 

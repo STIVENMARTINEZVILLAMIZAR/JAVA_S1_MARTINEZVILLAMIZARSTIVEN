@@ -4,7 +4,7 @@ encuentre en la primera quincena y, no sea fin de semana se paga al 1% del salar
 por igual fines de semanas o no a 3%. Si en caso dado el empleado gana menos de 2 SMLV, entonces infomarles que aun no esta disponible dicho modulo para su estirpe. 
 
  */
-package java_s1_martinezvillamizarstiven;
+package DIA1;
 
 /**
  *
