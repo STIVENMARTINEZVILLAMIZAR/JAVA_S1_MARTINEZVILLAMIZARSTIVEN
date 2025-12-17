@@ -1,6 +1,6 @@
 
 
-package java_s1_martinezvillamizarstiven.CONDICIONALES;
+package CONDICIONALES;
 
 /**
  *
